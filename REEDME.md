@@ -5,15 +5,18 @@
 <br>
 <hr>
 <br>
-<p align = "center">
+<p align = "left">
     <img align="left" width="16px" src='https://raw.githubusercontent.com/Espryth/Espryth/master/images/donutcraft.png' />
     Ceo & Developer at <a href="https://github.com/DonutCraft-Games">DonutCraft-Games</a>
+    <br>
     💻 Founder & Owner of <a href="https://discord.com/invite/hPNYUMUauD">RE-Team</a>
     <br>
     Contact me:
     <br>
-    <img align="left" width="16px" src='https://raw.githubusercontent.com/Espryth/Espryth/master/images/discord.png' /> Espryth#6092
-📫 espryth@gmail.com
+    <img align="left" width="16px" src='https://raw.githubusercontent.com/Espryth/Espryth/master/images/discord.png' />
+    Espryth#6092
+    <br>
+    📫 espryth@gmail.com
     <br>
 </p>
 <hr>
