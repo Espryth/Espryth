@@ -5,7 +5,7 @@
 <br>
 <hr>
 <p align = "left">
-    💻 Ceo & Developer at <a href="https://github.com/DonutCraft-Games">DonutCraft-Games</a>
+    💻 CEO & Developer at <a href="https://github.com/DonutCraft-Games">DonutCraft-Games</a>
     <br>
     💻 Founder & Owner at <a href="https://discord.com/invite/hPNYUMUauD">RE-Team</a>
     <br>
