@@ -10,13 +10,10 @@
     💻 Founder & Owner at <a href="https://discord.com/invite/hPNYUMUauD">RE-Team</a>
     <br>
     <br>
-    💬 Discord: Espryth#6092
+    💬 Contact me on discord: Espryth#6092
     <br>
 </p>
 <hr>
-<p align = "center">
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Espryth&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Espryth&layout=compact)
-
-</p>
