@@ -1,7 +1,7 @@
 <h1> Hi, my name is Javier</h1>
-<h2>I am a java developer, I've been in the programming world for about 7 months.</h2>
+I am a java developer, I've been in the programming world for about 7 months.
 <br>
-<h4>🎓 I am from Mexico and I am 17 years old with the aspiration to be a great developer.<h4>
+🎓 I am from Mexico and I am 17 years old with the aspiration to be a great developer.
 <br>
 <hr>
 <br>
@@ -19,6 +19,7 @@
     📫 espryth@gmail.com
     <br>
 </p>
+<br>
 <hr>
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Espryth&count_private=true)
