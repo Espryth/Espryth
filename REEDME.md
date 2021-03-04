@@ -6,16 +6,14 @@
 <hr>
 <br>
 <p align = "left">
-    <img align="left" width="16px" src='https://raw.githubusercontent.com/Espryth/Espryth/master/images/donutcraft.png' />
-    Ceo & Developer at <a href="https://github.com/DonutCraft-Games">DonutCraft-Games</a>
+    💻 Ceo & Developer at <a href="https://github.com/DonutCraft-Games">DonutCraft-Games</a>
     <br>
-    💻    Founder & Owner at <a href="https://discord.com/invite/hPNYUMUauD">RE-Team</a>
+    💻 Founder & Owner at <a href="https://discord.com/invite/hPNYUMUauD">RE-Team</a>
     <br>
     <br>
     Contact me:
     <br>
-    <img align="left" width="16px" src='https://raw.githubusercontent.com/Espryth/Espryth/master/images/discord.png' />
-    Espryth#6092
+    💬 Discord: Espryth#6092
     <br>
 </p>
 <br>
