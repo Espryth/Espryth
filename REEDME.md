@@ -9,14 +9,13 @@ I am a java developer, I've been in the programming world for about 7 months.
     <img align="left" width="16px" src='https://raw.githubusercontent.com/Espryth/Espryth/master/images/donutcraft.png' />
     Ceo & Developer at <a href="https://github.com/DonutCraft-Games">DonutCraft-Games</a>
     <br>
-    💻 Founder & Owner of <a href="https://discord.com/invite/hPNYUMUauD">RE-Team</a>
+    💻  Founder & Owner of <a href="https://discord.com/invite/hPNYUMUauD">RE-Team</a>
+    <br>
     <br>
     Contact me:
     <br>
     <img align="left" width="16px" src='https://raw.githubusercontent.com/Espryth/Espryth/master/images/discord.png' />
     Espryth#6092
-    <br>
-    📫 espryth@gmail.com
     <br>
 </p>
 <br>
