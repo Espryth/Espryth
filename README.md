@@ -9,6 +9,7 @@
     <br>
     💻 Founder & Owner at <a href="https://discord.com/invite/hPNYUMUauD">RE-Team</a>
     <br>
+    💻 Developer at <a href="https://github.com/Akardoo">Akardoo</a>
     <br>
     💬 Contact me on discord: Espryth#6092
     <br>
