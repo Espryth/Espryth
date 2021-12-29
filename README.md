@@ -5,8 +5,6 @@
 <br>
 <hr>
 <p align = "left">
-    💻 CEO & Developer at <a href="https://github.com/DonutCraft-Games">DonutCraft-Games</a>
-    <br>
     💻 Founder & Owner at <a href="https://discord.henko.dev/">Henko Development</a>
     <br>
     💻 Developer at <a href="https://github.com/Akardoo">Akardoo</a>
