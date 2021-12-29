@@ -1,5 +1,5 @@
 <h1> Hi, my name is Javier</h1>
-🎓 I am a java developer, I've been in the programming world for about 7 months.
+🎓 I am a java developer, I've been in the programming world for about 1 year.
 <br>
 🚀 I am from Mexico and I am 17 years old with the aspiration to be a great developer.
 <br>
@@ -7,7 +7,7 @@
 <p align = "left">
     💻 CEO & Developer at <a href="https://github.com/DonutCraft-Games">DonutCraft-Games</a>
     <br>
-    💻 Founder & Owner at <a href="https://discord.com/invite/hPNYUMUauD">RE-Team</a>
+    💻 Founder & Owner at <a href="https://discord.henko.dev/">Henko Development</a>
     <br>
     💻 Developer at <a href="https://github.com/Akardoo">Akardoo</a>
     <br>
