@@ -1,7 +1,7 @@
 <h1> Hi, my name is Javier</h1>
 🎓 I am a java developer, I've been in the programming world for about 1 year.
 <br>
-🚀 I am from Mexico and I am 17 years old with the aspiration to be a great developer.
+🚀 I am from Mexico with the aspiration to be a great developer.
 <br>
 <hr>
 <p align = "left">
